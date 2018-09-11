@@ -1,0 +1,17 @@
+{
+    "name": "EasyOTA",
+    "keywords": "EasyOTA, OTA",
+    "description": "ArduinoOTA wrapper for easier use",
+    "authors":
+    {
+        "name": "regenbogencode",
+        "email": "regenbogencode@gmail.com",
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://gitlab.com/regenbogencode/easyota"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif8266"
+}
